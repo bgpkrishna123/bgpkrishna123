@@ -3,6 +3,9 @@
 <h3 align="center">A passionate full-stack developer from India</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+[![](https://visitcount.itsvg.in/api?id=bgpkrishna123&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 - 🌱 I’m currently learning *full stack web development*
 
 - 💬 Ask me about *Html5, Css3, JavaScript, react, redux, mongoDB, MySQL, node, express*
@@ -11,7 +14,7 @@
 
 
 
-[![](https://visitcount.itsvg.in/api?id=bgpkrishna123&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishna-pratap-coder)[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kriashna.kumar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bgpkrishna123) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bgpkrishna)[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/krishna-pratap-the-scripter) 
