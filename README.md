@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Krishna Pratap</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-[![](https://visitcount.itsvg.in/api?id=bgpkrishna123&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <br><br><br>full stack web development<br>Html5, Css3, JavaScript, react, redux, mongoDB, MySQL, node, express
 
 
@@ -17,5 +17,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bgpkrishna123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
+[![](https://visitcount.itsvg.in/api?id=bgpkrishna123&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
