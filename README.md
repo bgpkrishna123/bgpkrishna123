@@ -1,4 +1,8 @@
-# 💫 About Me:
+![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
+<h1 align="center">Hi 👋, I'm PRINCE RAJ</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <br><br><br>full stack web development<br>Html5, Css3, JavaScript, react, redux, mongoDB, MySQL, node, express
 
 
