@@ -9,7 +9,7 @@
 
 - 📫 How to reach me *bgpkrishna123@gmail.com*
 
-
+[![](https://visitcount.itsvg.in/api?id=bgpkrishna123&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishna-pratap-coder)[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kriashna.kumar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bgpkrishna123) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bgpkrishna)[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/krishna-pratap-the-scripter) 
@@ -23,5 +23,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bgpkrishna123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=bgpkrishna123&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
